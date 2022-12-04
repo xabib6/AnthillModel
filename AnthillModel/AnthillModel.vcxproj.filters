@@ -18,11 +18,11 @@
     <ClCompile Include="AnthillModel.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="AntHill.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Ant.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
     <ClInclude Include="AntHill.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>

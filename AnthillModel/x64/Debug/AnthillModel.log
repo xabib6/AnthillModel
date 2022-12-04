@@ -1,2 +1,5 @@
-﻿  AnthillModel.cpp
+﻿  AntHill.cpp
+  AnthillModel.cpp
+C:\Users\xabib\source\repos\AnthillModel\AnthillModel\AnthillModel.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
   AnthillModel.vcxproj -> C:\Users\xabib\source\repos\AnthillModel\x64\Debug\AnthillModel.exe

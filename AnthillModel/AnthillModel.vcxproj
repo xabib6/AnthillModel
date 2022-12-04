@@ -127,10 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AntHill.cpp" />
     <ClCompile Include="AnthillModel.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Ant.h" />
     <ClInclude Include="AntHill.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
